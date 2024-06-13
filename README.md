@@ -1,2 +1,3 @@
-# introductie-tot-php
-Higher professional education program PHP &amp; MySQL assignment
+# Introductie Tot PHP
+
+Higher professional education program PHP & MySQL assignment.
