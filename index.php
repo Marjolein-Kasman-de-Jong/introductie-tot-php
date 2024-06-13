@@ -1,13 +1,7 @@
 <?php
-/*
-Ik heb overwogen om hier define("VARIABLE_NAME","VARIABLE_VALUE") te 
-gebruiken, omdat de waarden niet veranderen, maar omdat in de opdracht 
-nadrukkelijk 'variabelen' stond, heb ik gekozen voor $variable_name =
-variable_value.  
-*/
 $name = 'Marjolein';
 $age = 45;
-$city = "Driel";
+$city = "Arnhem";
 $favorite_food = 'pasta';
 ?>
 
